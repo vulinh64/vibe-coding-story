@@ -259,7 +259,7 @@ For party members, it works differently. When a hero reaches 0 HP, they don't di
 
 Separately, **Vince, Lara and Romus** have access to a spell literally called **Death**. As the name suggests, it has a chance to instantly remove enemies within its area of effect from the battle — regardless of their current HP and regardless of their resistance to Shadow-elemental attacks. Testing confirms this works against any enemy, including the final boss, which indicates the spell runs its own separate instant-kill check rather than one that's blocked by boss status or Shadow resistance. This isn't guaranteed on every cast: it's chance-based, and the chance of it triggering increases as the spell is leveled up.
 
-At level 4, this chance is 30% and affect an area of `3 x 3`.
+At level 4, this chance is 30% and affects an area of `3 x 3`.
 
 ### Confuse is a one-sided status
 
